@@ -1,2 +1,2 @@
-document.body.innerHTML = '<h1>Using JS!</h1>'
-console.log('test123NiggaFree')
+// document.body.innerHTML = '<h1>Using JS!</h1>'
+// console.log('test123NiggaFree')
